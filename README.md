@@ -39,7 +39,7 @@ A fun and interactive memory game built with HTML, CSS, and JavaScript. The obje
    #changing the directory to Simon-Game
    cd simon-game
    #Opening the HTML file
-   open index.html
+   start index.html
    ```
 
 
