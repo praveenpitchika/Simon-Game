@@ -35,7 +35,7 @@ A fun and interactive memory game built with HTML, CSS, and JavaScript. The obje
 
 1. Clone the repository and opening the File:
    ```bash
-   git clone https://github.com/yourusername/simon-game.git
+   git clone https://github.com/praveenpitchika/simon-game.git
    #changing the directory to Simon-Game
    cd simon-game
    #Opening the HTML file
